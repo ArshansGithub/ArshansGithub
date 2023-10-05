@@ -1,4 +1,5 @@
 # 💫 About Me:
+Software Lead @ FRC Team #2658 (Robotics)<br/>
 I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently learning lower-level languages in an effort to get familiar with hardware and software connections.</p>
 ![](https://komarev.com/ghpvc/?username=arshansgithb&style=for-the-badge)
 # 💻 Tech Stack:
