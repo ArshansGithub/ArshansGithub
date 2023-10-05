@@ -10,6 +10,3 @@ I'm interested in pursuing some computer-influenced fields (Computer Science, Co
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArshansGithub&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ArshansGithub&icon=5&color=12)](https://visitcount.itsvg.in)
