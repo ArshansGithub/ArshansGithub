@@ -1,6 +1,7 @@
 # 💫 About Me:
 Software Lead @ FRC Team #2658 (Robotics)<br/><br/>
-I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently learning lower-level languages in an effort to get familiar with hardware and software connections.</p>
+Programming Hobbyist<br/><br/>
+I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently working on improving my reverse engineering skills and fiddling with game hijacking/hacking (without ruining other people's experiences).<br><br>Eventually looking forward towards launching some sort of fullstack service solving a real world problem</p>
 ![](https://komarev.com/ghpvc/?username=arshansgithb&style=for-the-badge)
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshansGithub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
