@@ -1,7 +1,9 @@
 # 💫 About Me:
-Software Lead @ FRC Team #2658 (Robotics)<br/><br/>
+Prior Software Lead @ FRC Team #2658 (Robotics)<br/><br/>
+Current Vice President @ FRC Team #2658 (Robotics)<br/><br/>
+
 Programming Hobbyist<br/><br/>
-I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently working on improving my reverse engineering skills and Machine Learning (ML).<br><br>Eventually looking forward towards launching some sort of fullstack service solving a real world problem</p>
+I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently working on improving my reverse engineering skills and Machine Learning (ML).<br><br>Eventually looking forward to launching some full-stack service solving a real-world problem</p>
 ![](https://komarev.com/ghpvc/?username=arshansgithb&style=for-the-badge)
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshansGithub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
