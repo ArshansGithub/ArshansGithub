@@ -1,6 +1,5 @@
 # 💫 About Me:
-Prior Software Lead @ FRC Team #2658 (Robotics)<br/><br/>
-Current Vice President @ FRC Team #2658 (Robotics)<br/><br/>
+Prior Software Lead, current Vice President @ FRC Team #2658 (Robotics)<br/><br/>
 
 Programming Hobbyist<br/><br/>
 I'm interested in pursuing some computer-influenced fields (Computer Science, Computer Engineering, Cybersecurity).<br><br>I enjoy working with and learning about automation, web apps (Frontend and backend), desktop apps, malware, and reverse engineering.<br><br>I am currently working on improving my reverse engineering skills and Machine Learning (ML).<br><br>Eventually looking forward to launching some full-stack service solving a real-world problem</p>
