@@ -7,10 +7,10 @@
 </div>  
   
 
-- 🔭 I’m currently working on [FRC 2025 Season Robot Code (Reefscape)](https://github.com/frc-emotion/Reefscape-2025), Robotics Team Mobile App [Frontend](https://github.com/frc-emotion/nautilus-frontend) & [Backend](https://github.com/frc-emotion/nautilus-backend)  
+- 🔭 I’m currently working on Earnlytics (Coming soon!)
   
 
-- 🌱 I’m currently learning about Mechatronics  
+- 🌱 I’m currently learning about Networking/IT  
 
 ## Languages and Tools  
 <div align="center">  
